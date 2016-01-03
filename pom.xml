@@ -84,7 +84,7 @@
 				</pluginManagement>
 			</build>
 		</profile>
-	</profiles>
+
 	<profile>
             <!-- When built in OpenShift the 'openshift' profile will be used when 
                 invoking mvn. -->
@@ -107,6 +107,7 @@
                 </plugins>
             </build>
         </profile>
+        	</profiles>
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
