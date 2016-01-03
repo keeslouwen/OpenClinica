@@ -209,12 +209,12 @@
 			<version>8.1-404.jdbc3</version>
 			<scope>runtime</scope>
 		</dependency>
-        <!-- Oracle JDBC driver -->
+        <!-- Oracle JDBC driver 
         <dependency>
             <groupId>oracle.ojdbc14</groupId>
             <artifactId>ojdbc14</artifactId>
             <version>10g</version>
-        </dependency>
+        </dependency> -->
         <dependency>
 			<groupId>org.codehaus.castor</groupId>
 			<artifactId>castor-xml</artifactId>
